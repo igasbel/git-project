@@ -1,0 +1,31 @@
+
+[2018-08-09_09:39:50 test0] ### __construct() called!
+[2018-08-09_09:39:50 test0] Hello!
+[2018-08-09_09:39:50 test0] ### __destruct() called!
+[2018-08-09_09:39:50 test1] ### __construct() called!
+[2018-08-09_09:39:50 test1] Hello!
+[2018-08-09_09:39:50 test1] ### __destruct() called!
+[2018-08-09_09:39:50 test2] ### __construct() called!
+[2018-08-09_09:39:50 test2] Hello!
+[2018-08-09_09:39:50 test2] ### __destruct() called!
+[2018-08-09_09:39:50 test3] ### __construct() called!
+[2018-08-09_09:39:50 test3] Hello!
+[2018-08-09_09:39:50 test3] ### __destruct() called!
+[2018-08-09_09:39:50 test4] ### __construct() called!
+[2018-08-09_09:39:50 test4] Hello!
+[2018-08-09_09:39:50 test4] ### __destruct() called!
+[2018-08-09_09:39:50 test5] ### __construct() called!
+[2018-08-09_09:39:50 test5] Hello!
+[2018-08-09_09:39:50 test5] ### __destruct() called!
+[2018-08-09_09:39:50 test6] ### __construct() called!
+[2018-08-09_09:39:50 test6] Hello!
+[2018-08-09_09:39:50 test6] ### __destruct() called!
+[2018-08-09_09:39:50 test7] ### __construct() called!
+[2018-08-09_09:39:50 test7] Hello!
+[2018-08-09_09:39:50 test7] ### __destruct() called!
+[2018-08-09_09:39:50 test8] ### __construct() called!
+[2018-08-09_09:39:50 test8] Hello!
+[2018-08-09_09:39:50 test8] ### __destruct() called!
+[2018-08-09_09:39:50 test9] ### __construct() called!
+[2018-08-09_09:39:50 test9] Hello!
+[2018-08-09_09:39:50 test9] ### __destruct() called!

@@ -1,0 +1,1 @@
+http://htmlbook.ru/html/valid - Валидность тегов относительно версийhttp://htmlbook.ru/html/%21doctype - Доктайпы
